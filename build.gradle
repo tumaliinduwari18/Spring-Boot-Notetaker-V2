@@ -33,7 +33,7 @@ dependencies {
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
     implementation group: 'org.modelmapper.extensions', name: 'modelmapper-spring', version: '3.2.1'
     implementation 'org.modelmapper:modelmapper:2.4.4' // Or the latest version
-//    implementation group: 'org.springframework.boot', name: 'spring-boot-starter-security', version: '3.3.4'
+    implementation group: 'org.springframework.boot', name: 'spring-boot-starter-security', version: '3.3.4'
 
 
 
